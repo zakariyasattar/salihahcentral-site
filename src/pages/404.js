@@ -9,7 +9,7 @@ const NotFoundPage = () => (
     <tab6><tab6><a href="/"><button>Homepage</button></a></tab6></tab6>
 <br/>
 <font color="seashell">
-<p>If You have any other questions or concerns please feel free to contact me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zakariyasattar03@gmail.com">here</a></p>
+<p>If You have any other questions or concerns please feel free to contact me, the developer <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zakariyasattar03@gmail.com">here</a></p>
 </font>
   </div>
 )

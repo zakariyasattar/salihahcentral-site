@@ -2,6 +2,7 @@ import React from 'react'
 
 const Staff = () => (
   <div>
+  <link rel="stylesheet" type="text/css" href="main.css"/>
   <div
     style={{
       background: 'powderblue',

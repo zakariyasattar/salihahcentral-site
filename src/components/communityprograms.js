@@ -22,10 +22,7 @@ const womensprograms = () => (
           textDecoration: 'none',
         }}
       >
-      < body style={{
-        background: "powderblue"
-      }}>
-</body>
+    
 
 <div>
 <br />

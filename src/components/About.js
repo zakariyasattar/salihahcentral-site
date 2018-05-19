@@ -11,7 +11,6 @@ const About = () => (
   <section id="about">
     <div className="row">
       <div className="three columns">
-        <img className="profile-pic" src="src/assets/images/profile-pic.jpg" alt="" />
       </div>
       <div className="nine columns main-col">
         <h1>About us</h1>
