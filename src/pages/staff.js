@@ -80,6 +80,17 @@ and teacher, coaching and leading women of all ages in connecting with their Cre
     </p>
     <br/>
 
+    <h4>Mehreen Bawla</h4>
+
+    <p> Mehreen Bawla has a Bachelor in Pharmacy degree from the Massachusetts College of Pharmacy and has been a practicing pharmacist with Walgreens for nearly two decades.  Mehreen has also regularly taken part in Islamic studies classes under great traditional scholars including the honorable Shaykh Husain Abdul Sattar, Mufti Abdur-Rahman Mangera, Shaykh Khalid Sattar, and Shaykh Kamaluddin Ahmed, all under the guidance of Shaykh Hussain and Hafiza Anse Amina Sayeed.  Currently, Mehreen is a third year student of the Zaynab Academy Online Alimah Program, studying full time under the guidance of traditional female scholars.  Having been granted ijaza by her teachers, Mehreen regularly teaches in-person halaqas throughout the city of Chicago and online classes through Salihah Central on topics of fiqh, tafsir, and hadith. Mehreen is also the co-founder and co-director of Carriers of Light, a full-time Islamic school with a focus on Quranic learning and memorization alongside high quality academic studies.  Mehreen was raised in New York  and moved to the suburbs of Chicago where she continues to reside with her husband and four children.
+    </p>
+    <br />
+
+    <h4>Farheen Farooq</h4>
+
+    <p> Farheen Farooq holds a degree in Human Nutrition and Dietetics from Loyola University Chicago. Part of her goals include encouraging healthy eating habits for women and families, and is the creator and founder of Wholesome Platter: a local based service whose aim is to provide fresh and  wholesome meals to women who are conscious about their health. Additionally, Farheen has completed a three year Islamic learning program titled Ilm Essentials, and is currently in her third year of study to become an alimah with Zaynab Academy Online. Farheen has also taught at Salihah Central, a teacher of both Arabic and Seerah, and as well as Hadith classes in Schaumburg using the renowned book ‘Zaad ut Talibeen.
+    </p>
+    <br />
 
     <h4>Maryam Salman</h4>
 

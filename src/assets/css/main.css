@@ -119,6 +119,20 @@ Link {
 }
 
 
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
 /* ------------------------------------------------------------------ */
 /* c. Default and Basic Styles
       Adapted from:
@@ -1115,7 +1129,7 @@ ul#nav li a {
 /* c. About Section
 /* ------------------------------------------------------------------ */
 #about {
-  background: powderblue;
+  background: white;
   padding-top: 96px;
   padding-bottom: 66px;
   overflow: hidden;
@@ -1142,20 +1156,19 @@ ul#nav li a {
 }
 #about .profile-pic {
   position: relative;
-  width: 120px;
-  height: 120px;
-  border-radius: 100%;
+  width: 200px;
+  height: 150px;
 }
 
 #about button {
    display: inline;
    background: gray;
-   color: powderblue;
+   color: white;
  }
 
  #about button:hover {
    background: black;
-   color: powderblue;
+   color: white;
  }
 #about button1 {
   background-color: gray;
@@ -1508,7 +1521,6 @@ ul#nav li a {
   -o-transition: opacity 0.3s ease-in-out;
   transition: opacity 0.3s ease-in-out;
 
-  background: url(../images/overlay-bg.png) repeat;
 }
 .portfolio-item .item-wrap .link-icon {
   display: block;

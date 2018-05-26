@@ -4,13 +4,14 @@ import Link from 'gatsby-link'
 import Router from 'react-router';
 
 
-import profilePic from "../assets/images/profilepic.jpg";
+import profilePic from "../assets/images/IMG_9323.png";
 <link href='https://fonts.googleapis.com/css?family=Sofia' rel="stylesheet"/>
 
 const About = () => (
   <section id="about">
     <div className="row">
       <div className="three columns">
+      <img className="profile-pic" src={profilePic} alt="" />
       </div>
       <div className="nine columns main-col">
         <h1>About us</h1>
@@ -25,8 +26,8 @@ const About = () => (
         </h5>
         <br />
 
-            <a href="/staff/"><button>Meet our team</button></a><tab1></tab1>
-            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=salihah.central@gmail.com" target="_blank"><button>Contact Us</button></a><tab1></tab1>
+            <a href="/staff"><button>Meet our team</button></a><tab1></tab1>
+            <a href="contact-us"><button>Contact Us</button></a><tab1></tab1>
             <a href="https://docs.google.com/forms/d/17RV4XLozmAY0bTDoyVrQnBABnLhq2TjKYpOvJkpV-JU/edit" target="_blank"><button>Join Our Online Forum!</button></a><tab1></tab1>
       </div>
     </div>
