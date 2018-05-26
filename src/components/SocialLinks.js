@@ -9,7 +9,7 @@ import {
 const SocialLinks = () => (
   <ul className="social">
     <li>
-      <a href="https://www.facebook.com/salihah.central.1" target="_blank">
+      <a href="https://www.facebook.com/womenslearningcommunity" target="_blank">
         <FaFacebook />
       </a>
     </li>
