@@ -4,7 +4,7 @@ import Link from 'gatsby-link'
 import Router from 'react-router';
 
 
-import profilePic from "../assets/images/IMG_9323.png";
+import profilePic from "../assets/images/IMG_9323";
 <link href='https://fonts.googleapis.com/css?family=Sofia' rel="stylesheet"/>
 
 const About = () => (
