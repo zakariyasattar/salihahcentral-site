@@ -27,7 +27,7 @@ const About = () => (
         <br />
 
             <a href="/staff"><button>Meet our team</button></a><tab1></tab1>
-            <a href="../components/pages/contact-us.html"><button>Contact Us</button></a><tab1></tab1>
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=salihah.central@gmail.com" target="_blank""><button>Contact Us</button></a><tab1></tab1>
             <a href="https://docs.google.com/forms/d/17RV4XLozmAY0bTDoyVrQnBABnLhq2TjKYpOvJkpV-JU/edit" target="_blank"><button>Join Our Online Forum!</button></a><tab1></tab1>
       </div>
     </div>
