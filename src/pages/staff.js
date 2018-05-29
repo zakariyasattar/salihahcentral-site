@@ -76,17 +76,15 @@ const Staff = () => (
     </p>
     <br />
 
+    <h4><tab1></tab1>Sakina Syed</h4>
+    <p>
+    Born in Dubai (UAE) and raised in Chicago, 'Alimah Syeda Sakina began attending the Institute of Islamic Education (IIE) in Elgin, IL in 2002 and graduated from their 'Alimah program in 2009. During this time, she studied under the tutelage of her respected teachers gaining degrees (ijazat) in sciences including tafsir, hadith, and fiqh. 'Alimah Syeda Sakina has served as a teacher at Islamic Foundation School (IFS) in Villa Park, IL. 'Alimah Sakina also teaches Qur'an, tafsir, and Arabic classes in-person and online. She holds halaqahs for women and girls across the greater Chicagoland area. She completed her undergraduate degree from Northeastern Illinois University with a summa cum laude in English secondary education with endorsements to teach middle school Language Arts and Social Studies, and currently teaches English at Adlai E. Stevenson high school in Lincolnshire, Illinois. Alimah Sakina lives in the Chicago area with her husband and three children.
+    </p>
+    <br />
     <h4><tab1></tab1>Maryah Qureshi</h4>
     <p>
     Maryah Qureshi is a third year student in Salihah Central's distance alimah program. By profession she is a marriage and family therapist who trains new clinicians in Chicago and has a limited private practice in Lincolnwood, IL. Maryah is an advisor for Sisters Steppin' Up, a youth group for Muslim girls in the Chicagoland area. She completed her BA in Economics and in Public Policy Studies at University of Chicago, and earned her MS in Marital & Family Therapy from Northwestern University. Maryah was born and raised in Chicago and continues to live with her family on the north side of the city.
 
-    </p>
-    <br />
-
-
-    <h4><tab1></tab1>Sakina Syed</h4>
-    <p>
-    Born in Dubai (UAE) and raised in Chicago, 'Alimah Syeda Sakina began attending the Institute of Islamic Education (IIE) in Elgin, IL in 2002 and graduated from their 'Alimah program in 2009. During this time, she studied under the tutelage of her respected teachers gaining degrees (ijazat) in sciences including tafsir, hadith, and fiqh. 'Alimah Syeda Sakina has served as a teacher at Islamic Foundation School (IFS) in Villa Park, IL. 'Alimah Sakina also teaches Qur'an, tafsir, and Arabic classes in-person and online. She holds halaqahs for women and girls across the greater Chicagoland area. She completed her undergraduate degree from Northeastern Illinois University with a summa cum laude in English secondary education with endorsements to teach middle school Language Arts and Social Studies, and currently teaches English at Adlai E. Stevenson high school in Lincolnshire, Illinois. Alimah Sakina lives in the Chicago area with her husband and three children.
     </p>
     <br />
     <br />
