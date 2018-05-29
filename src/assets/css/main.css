@@ -235,8 +235,9 @@ tab16 { padding-left: 64em; }
 
 
 p {
-  margin-right: auto;
-  text-align: center;
+  margin-left: 100px;
+  margin-right: 25px;
+  text-align: left;
   font-family: 'Varela Round', sans-serif;
   font-size: 16px;
 }
