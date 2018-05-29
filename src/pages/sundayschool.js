@@ -2,10 +2,31 @@ import React from "react";
 
 const sundayschool = () => (
   <div>
-  <br />
-    <h1>Sunday School</h1>
-    <a href="/#communityprograms"><tab1><button>Go Back To The Homepage</button></tab1></a>
-    <br/>
+  <div
+      style={{
+        background: 'powderblue',
+        marginBottom: '1.45rem',
+      }}
+    >
+      <div
+        style={{
+          margin: '0 auto',
+          maxWidth: 960,
+          padding: '1.45rem 1.0875rem',
+        }}
+      >
+        <h1 style={{
+          margin: 0,
+          color: "gray"
+        }}>
+          Sunday School
+
+        </h1>
+
+      </div>
+      <a href="/#communityprograms"><tab1><button>Go Back To The Homepage</button></tab1></a>
+  </div>
+  <br/>
     <p>Salihah Central is excited to announce that registration for the Weekend Bees Sunday School is now open for the 2018-2019 academic year!
 Featuring a well-rounded Islamic Studies curriculum and progressive teaching methods, this program is designed for Muslim youth entering Pre-K through 8th grades. Field trips, projects, and healthy engagement with peers bring the curriculum to life and leave students with a strong Muslim identity. Our curriculum includes Quranic memorization, Arabic, Islamic history, Hadith, and Sunnah.
 Weekend Bees classes are held on Sundays from 10:00am to 1:00pm at IQRA International Educational Foundation located at 7450 Skokie Blvd, Skokie, IL 60077. Classes begin in September and generally follow the regular school calendar.

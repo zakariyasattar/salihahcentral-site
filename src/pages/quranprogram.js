@@ -3,12 +3,31 @@ import React from "react";
 const Quran = () => (
     <div>
     <link rel="stylesheet" type="text/css" href="main.css"/>
-    <br/>
-    <h1>Afternoon Bees Hifdh-ul-Qur’an Program
-</h1>
+    <div
+        style={{
+          background: 'powderblue',
+          marginBottom: '1.45rem',
+        }}
+      >
+        <div
+          style={{
+            margin: '0 auto',
+            maxWidth: 960,
+            padding: '1.45rem 1.0875rem',
+          }}
+        >
+          <h1 style={{
+            margin: 0,
+            color: "gray"
+          }}>
+            Afternoon Bees Hifdh-ul-Qur’an Program
 
-<a href="/#communityprograms"><tab1><button>Go Back To The Homepage</button></tab1></a>
-<br/>
+          </h1>
+
+        </div>
+        <a href="/#communityprograms"><tab1><button>Go Back To The Homepage</button></tab1></a>
+    </div>
+    <br/>
 <h5>What is it?</h5>
     <p>The Afternoon Bees Qur’an Program is an opportunity for children to engage in focused Qur’anic recitation and memorization after school. It is designed to provide the child in public school an opportunity to start on the journey of Hifdh while attending school full-time. The program is individual-based, allowing children to excel at their own level in a nurturing and encouraging environment.
 </p>

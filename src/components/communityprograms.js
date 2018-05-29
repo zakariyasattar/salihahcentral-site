@@ -22,14 +22,14 @@ const womensprograms = () => (
           textDecoration: 'none',
         }}
       >
-    
+
 
 <div>
 <br />
 <font color="black">
     <h1>For Women</h1>
   </font>
-    <li><a href="halaqas">Halaqas</a></li>
+    <li><a href="halaqas">Community Classes</a></li>
     <li><a href="alima-program">Alima Program</a></li>
     <li><a href="ILM101">Ilm 101 Program</a></li>
     <li><a href="seminar">Half Day Seminar: Wisdom in Bloom!</a></li>

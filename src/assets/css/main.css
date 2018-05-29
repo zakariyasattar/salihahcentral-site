@@ -836,7 +836,7 @@ properly.
 --------------------------------------------------------------- */
 @media screen and (min-width: 1200px) {
 
-   .wide .row { max-width: 1180px; }
+   .wide .row { max-width: 1080px; }
 
 }
 

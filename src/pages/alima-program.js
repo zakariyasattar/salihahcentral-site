@@ -3,9 +3,30 @@ import React from "react";
 const Alima = () => (
   <div>
     <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet"/>
-  <br />
-  <h1><font size="+25">Alima Program</font></h1>
-  <a href="/#communityprograms"><tab1><button>Go Back To The Homepage</button></tab1></a>
+    <div
+        style={{
+          background: 'powderblue',
+          marginBottom: '1.45rem',
+        }}
+      >
+        <div
+          style={{
+            margin: '0 auto',
+            maxWidth: 960,
+            padding: '1.45rem 1.0875rem',
+          }}
+        >
+          <h1 style={{
+            margin: 0,
+            color: "gray"
+          }}>
+            Alima Program
+
+          </h1>
+
+        </div>
+        <a href="/#communityprograms"><tab1><button>Go Back To The Homepage</button></tab1></a>
+    </div>
   <br />
 
   <h4><tab1>What is it?</tab1></h4>
