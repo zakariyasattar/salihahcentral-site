@@ -5,7 +5,7 @@ import Ribbon from "../components/Ribbon";
 const ExampleForm = () => (
 <div>
 <Ribbon/>
-              <form method="post" action="../pages/#action_page.php">
+              <form method="post" action="#action_page.php">
             <div className="field half first">
               <label htmlFor="name"><font color="powderblue"><tab1></tab1>Name</font></label>
               <input type="text" name="name" id="name" />
