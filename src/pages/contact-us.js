@@ -1,11 +1,10 @@
 import React from "react";
-import { Form, Text, Radio, RadioGroup, TextArea, Checkbox } from 'react-form';
 import Ribbon from "../components/Ribbon";
 
 const ExampleForm = () => (
 <div>
 <Ribbon/>
-              <form method="post" action="#action_page.php">
+              <form method="post" data-netlify="true">
             <div className="field half first">
               <label htmlFor="name"><font color="powderblue"><tab1></tab1>Name</font></label>
               <input type="text" name="name" id="name" />

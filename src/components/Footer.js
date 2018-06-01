@@ -24,7 +24,7 @@ const Footer = () => (
           <li>
           <font color="white">
             Developed in React ⚛️ by{" "}
-            <span><a href="https://mail.google.com/mail/?view=cm&fs=1&to=zakariyasattar03@gmail.com" target="_blank">Zakariya Sattar</a></span>
+            <span><a href="http://zakariyasattar.netlify.com" target="_blank">Zakariya Sattar</a></span>
             </font>
 
           </li>
