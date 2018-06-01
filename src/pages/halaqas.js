@@ -29,28 +29,44 @@ const halaqas = () => (
     <a href="/#communityprograms"><tab1><button>Go Back To The Homepage</button></tab1></a>
 </div>
 
-  <font color="papayawhip">
+<br/>
 
-  <p>Salihah Central offers regular halaqas (lecture gatherings) for women in the Chicagoland area. Led by Anse Amina, the halaqas address a
-  range of topics in spiritual development and issues that matter most in women’s lives. For over a decade, these gatherings have been Anse Amina’s flagship sessions in her work with the women
-  of her community. The gatherings have continued to be an opportunity for attendees to focus on themselves and reset spiritually.</p>
+  <h3><tab1></tab1>What Is It?</h3>
+  <p>Salihah Central offers community classes for women in the Chicagoland area. 
+    For over a decade, various classes have been taught in order to empowered women by providing Islamic knowledge, 
+    opportunities for self reflection and growth, and practical steps to face day to day challenges. 
+    Whether you are looking for something on the weekend, weeknight, or seeking long term coursework, 
+    Salihah central offers 3 tiers to provide for women of all schedules.
+  </p>
 
+<br/>
+
+  <h3><tab1></tab1>Weeknight ‘Me Time’</h3>
   <p>
-  The gatherings are held every other Wednesday evening in Park Ridge,
-   IL. For more information, <a href="/#calender">See Our Calender</a>
-   </p>
-   </font>
-<br />
+  Come meet with fellow women once a week to learn pivotal subjects in faith, community and spirituality. 
+  Previous topics have included; Time Management, Anger management, The life of the Messenger (seerah), 
+  Diseases of the Heart,  and more. (link to sign-up/interest form)
+  </p>
 
-<h2>“Me Time”</h2>
-<font color="papayawhip">
+<br/>
+
+  <h3><tab1>Weekend ‘Drive Thru’</tab1></h3>
   <p>
-  Wednesday night bi-weekly halaqas are Anse Amina’s flagship sessions as she has been meeting with women on Wednesday nights for a decade.
-  The halaqas are scheduled later in the evening giving women the opportunity to take time out for themselves to rejuvenate and reset spiritually.
-  This group meets every other Wednesday in Park Ridge, IL. Stay updated on these uplifting gatherings, click <a href="https://docs.google.com/forms/d/17RV4XLozmAY0bTDoyVrQnBABnLhq2TjKYpOvJkpV-JU/edit" target="_blank">here to join the online forum for updates and reminders.</a>
-</p>
+  Come meet with fellow women once a month in this ‘drive-thru’ style class. 
+  A 15 minute talk, accompanied with snacks and friends just to get your motivation going! (link to sign-up/interest form)
+  </p>
+
+<br/>
+
+  <h3><tab1></tab1>Quranic Recitation</h3>
+  <p>
+  Sign up for regular classes in Quranic recitation and increase your fluidity and accuracy in tajweed. (link to sign-up/interest form)
+  </p>
+
+<br/>
+<font color="white">
+  <span>Click here for a list of current schedules, topics and teachers</span>
 </font>
-
 
 </div>
 )

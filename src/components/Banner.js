@@ -12,7 +12,7 @@ const Banner = () => (
       <h1 className="responsive-headline"><font color="white">Salihah Central</font></h1>
       <h3>
       <font color= "lightskyblue">
-      Salihah Central is a womens learning community, where women connect, learn and thrive. Educating our children is high priority, thus we offer summer, weekend and afterschool Quran enrichment programs.
+      Salihah Central is a womens learning community, where women connect, learn and thrive.
       Special events and gatherings gives us an outlet for spiritual bonding and lifelong friendships.
         Find out a little bit more
         <a className="smoothscroll" href="#about">

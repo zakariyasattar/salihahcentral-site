@@ -209,10 +209,10 @@ h1, h2, h3, h4, h5, h6 {
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
 h1 { font-size: 38px; line-height: 42px; margin-bottom: 12px; letter-spacing: -1px; }
 h2 { font-size: 28px; line-height: 36px; margin-bottom: 6px; text-align: center;}
-h3 { font-size: 22px; line-height: 30px; margin-bottom: 12px; text-align: center;}
+h3 { font-size: 22px; line-height: 30px; margin-bottom: 12px;}
 h4 { font-size: 20px; line-height: 30px; margin-bottom: 6px;}
 h5 { font-size: 18px; line-height: 30px; margin-left: 50px;}
-h6 { font-size: 14px; line-height: 30px; }
+h6 { font-size: 14px; line-height: 30px; text-align: center;}
 .subheader { }
 
 
@@ -856,7 +856,13 @@ properly.
 .cf:after {
     clear: both;
 }
-
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
 /*  2. Misc -------------------------------------------------------- */
 
 .remove-bottom { margin-bottom: 0 !important; }
@@ -996,7 +1002,7 @@ header .social li a:hover {
 /* scrolldown link */
 header .scrolldown a {
   position: absolute;
-  bottom: 30px;
+  bottom: 250px;
   left: 50%;
   margin-left: -29px;
   color: #fff;
@@ -1187,8 +1193,8 @@ ul#nav li a {
 }
 #about .profile-pic {
   position: relative;
-  width: 200px;
-  height: 150px;
+  width: 250px;
+  height: 170px;
 }
 
 #about button {
