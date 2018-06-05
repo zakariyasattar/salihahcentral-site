@@ -1029,6 +1029,7 @@ header .scrolldown a:hover {
     border-radius: 5px;
 }
 a {
+    color: white;
     display: inline;
     width: 100%;
     line-height: 2em;
@@ -1036,7 +1037,7 @@ a {
     border-radius: 5px;
 }
 a:hover {
-  background-color: "white";
+  color: black;
 }
 
 /*staff styles*/

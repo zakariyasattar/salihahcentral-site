@@ -26,11 +26,18 @@ const Summer = () => (
       </div>
       <a href="/#communityprograms"><tab1><button>Go Back To The Homepage</button></tab1></a>
   </div>
+  <p>Salihah Central is excited to announce that registration for the Weekend Bees Sunday School<br/> is now open for the 2018-2019 academic year!</p>
+  <br/>
+  <p>
+  Featuring a well-rounded Islamic Studies curriculum and progressive teaching methods, this program is designed for Muslim youth entering Pre-K through 8th grades. Field trips, projects, and healthy engagement with peers bring the curriculum to life and leave students with a strong Muslim identity. Our curriculum includes Quranic memorization, Arabic, Islamic history, Hadith, and Sunnah.
+  </p>
+  <br/>
+  <p>Weekend Bees classes are held on Sundays from 10:00am to 1:00pm at IQRA International Educational Foundation located at 7450 Skokie Blvd, Skokie, IL 60077. Classes begin in September and generally follow the regular school calendar.
+The fee for the full academic year is $400 per child. All student fees are used to pay for the space, materials and supplies needed to run the Weekend Bees program. Salihah Central subsidizes the costs of the program as needed and does not make any profit from student fees. </p>
+<br/>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeI6rG5Yd8ESHxNgrVHQp20oZMlLA8zKNkDj0Ro2pgVryL3Iw/viewform?c=0&w=1"><tab1></tab1><button>Register Now!</button></a><tab6></tab6>
+  <span>If you have any further questions, please email <a href="mailto:salihah.central@gmail.com">us</a>.</span>
 
-        <p>This day camp is a four-week summer program that serves Muslim youth entering grades 1st through 8th.
-The camp provides meaningful, well-rounded Islamic learning in an engaging environment. Participants become equipped with a strong sense of identity, an increased level of confidence, and an appreciation of Quranic knowledge.  Students come to realize that practical Islam can be fun and even more worthwhile than other popular or commercial ways of passing time. Alhamdulillah, we have completed 12 summers of operation through popular demand! This camp is held in select masjids throughout the Chicagoland Area.
- For more information, visit the <a href="https://www.cambusybees.org" target="_blank">Camp Busy Bees website</a>
- </p>
  </div>
 );
 
