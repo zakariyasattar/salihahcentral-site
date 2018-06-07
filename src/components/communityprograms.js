@@ -32,7 +32,7 @@ const womensprograms = () => (
     <li><a href="halaqas">Community Classes</a></li>
     <li><a href="alima-program">Alima Program</a></li>
     <li><a href="ILM101">Ilm 101 Program</a></li>
-    <li><a href="seminar">Half Day Seminar: Wisdom in Bloom!</a></li>
+    <li><a href="seminar">Ramadan Programs</a></li>
     <li><a href="workshop">The Traveling workshop</a></li>
     <br />
   <font color="black"><h1>For Children</h1></font>

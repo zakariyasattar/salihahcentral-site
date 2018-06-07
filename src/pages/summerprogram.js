@@ -1,4 +1,6 @@
 import React from "react";
+import Slider from "react-slick";
+import Testimonials from "../components/Comments";
 
 const Summer = () => (
   <div>
@@ -37,7 +39,12 @@ The fee for the full academic year is $400 per child. All student fees are used 
 <br/>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeI6rG5Yd8ESHxNgrVHQp20oZMlLA8zKNkDj0Ro2pgVryL3Iw/viewform?c=0&w=1"><tab1></tab1><button>Register Now!</button></a><tab6></tab6>
   <span>If you have any further questions, please email <a href="mailto:salihah.central@gmail.com">us</a>.</span>
+<br/>
+<br/>
+  <h3><tab1></tab1>What Some People Say About Our Program:</h3>
 
+  <Testimonials/>
+  
  </div>
 );
 
