@@ -29,12 +29,14 @@ const Alima = () => (
     </div>
   <br />
 
-  <h4><tab1>What is it?</tab1></h4>
+  <h4><tab1>Mission</tab1></h4>
 
   <p>
-  The Salihah Central Alima Program is an in-depth course of study that covers the foundations and branches of Islam. 
-  The program follows the traditional Alima syllabus with the additional convenience of online learning. 
-  Classes in year one start at the basic level, developing a skill set and knowledge base within each student to pursue the study of essential Arabic texts in subsequent years.
+  Salihah Central has been offering online classes in the traditional 
+  Islamic Sciences for the past 10 years. The goal of this program is
+  to keep women connected to Islamic learning and teaching within the
+  context of their day-to-day lives. Our aim is to make learning accessible
+  by creating flexible scheduling and accommodating the one-on-one needs of our students.
   </p>
   <br/>
   <p>
@@ -58,7 +60,10 @@ const Alima = () => (
       <br/>
       <h4><tab2></tab2>Answer: <font color="lightsteelblue">Students in the alima program are expected to take exams and show academic level performance, </font></h4>
       <h4><tab2></tab2><font color="lightsteelblue">whereas community classes are designed for general knowledge and benefit, without the academic rigor of exams.</font></h4>
-      
+      <h4><tab2></tab2>Question: <font color="white">Do I have to take all the courses within that year?</font></h4>
+      <br/>
+      <h4><tab2></tab2>Answer: <font color="lightsteelblue">No, take as many or as few classes that fit in your schedule. 
+      If you’d like to space that year over more years, that is up to your schedule and availability.</font></h4>
       <br/>
       <h4><tab2></tab2>Question: <font color="white">What fiqh is taught in the Alima Program?</font></h4>
       <br/>
@@ -68,6 +73,7 @@ const Alima = () => (
       <br/>
       <h4><tab2></tab2>Answer: <font color="lightsteelblue">Here is a mock schedule that may be helpful:</font></h4>
       <br/>
+      
 
       
       <table>
@@ -81,7 +87,7 @@ const Alima = () => (
         </tr>
 
         <tr>
-          <td><tab1></tab1>3-4 hourse per week</td>
+          <td><tab1></tab1>3-4 hours per week</td>
           <td>Qur'an</td>
           <td></td>
           <td>Qur'an</td>
