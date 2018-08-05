@@ -48,7 +48,7 @@ const Alima = () => (
 
       <h4><tab2></tab2>Question: <font color="white">What is the time commitment?</font></h4>
       <br/>
-      <h4><tab2></tab2>Answer: <font color="lightsteelblue">Students are expected to put 4-6 hours per week of class time, and 2-3 hours study time.</font></h4>
+      <h4><tab2></tab2>Answer: <font color="lightsteelblue">1-3 hours per course, including study time</font></h4>
       <br/>
       <h4><tab2></tab2>Question: <font color="white">How long does it take to get an alima degree?</font></h4>
       <br/>
