@@ -20,6 +20,11 @@ const Navigation = () => (
         </a>
       </li>
       <li>
+        <a className="smoothscroll" a href="#events">
+          Events
+        </a>
+      </li>
+      <li>
         <a className="smoothscroll" a href="#calender">
           Calendar
         </a>

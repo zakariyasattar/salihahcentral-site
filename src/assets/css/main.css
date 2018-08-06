@@ -1249,6 +1249,18 @@ ul#nav li a {
 }
 
 
+#events {
+  background: white;
+  padding-bottom: 66px;
+  padding-top: 25px;
+  overflow: hidden;
+}
+
+#events h1 {
+  color: black;
+  font-family: 'Rubik', sans-serif;
+}
+
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
 /* ------------------------------------------------------------------ */

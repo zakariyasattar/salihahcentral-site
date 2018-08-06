@@ -7,8 +7,7 @@ const Banner = () => (
     <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'/>
     <link href="https://fonts.googleapis.com/css?family=Kalam" rel="stylesheet"/>
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet"/>
-
-
+    
       <h1 className="responsive-headline"><font color="white">Salihah Central</font></h1>
       <h3>
       <font color= "lightskyblue">
