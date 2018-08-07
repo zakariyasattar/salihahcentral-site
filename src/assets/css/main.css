@@ -1258,7 +1258,20 @@ ul#nav li a {
 
 #events h1 {
   color: black;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Raleway', sans-serif;
+}
+
+#events .event {
+  width: 100%;
+}
+
+#events .header-bar {
+  margin: 25px  75px ;
+  margin-left: auto;
+  margin-right: auto;
+  width: 130px;
+  height: 4px;
+  background: white;
 }
 
 /* ------------------------------------------------------------------ */
