@@ -1262,7 +1262,8 @@ ul#nav li a {
 }
 
 #events .event {
-  width: 100%;
+  width: 49.74%;
+  height: 500px;
 }
 
 #events .header-bar {

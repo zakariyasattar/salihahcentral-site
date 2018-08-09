@@ -34,7 +34,7 @@ The fee for the full academic year is $400 per child. All student fees are used 
 If you have anymore questions or concerns, please feel free to email us at <font color="white"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=salihah.central@gmail.com" target="_blank"><font color="white">salihah.central@gmail.com</font></a></font>.
 </p>
 <br />
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeI6rG5Yd8ESHxNgrVHQp20oZMlLA8zKNkDj0Ro2pgVryL3Iw/viewform?c=0&w=1" target="_blank"><tab1><button>Register Now</button></tab1></a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeU5GgUTsAZskWq_qRN8DzEtK8eKeaK6YB_BEDb5RqT54uqjw/viewform?c=0&w=1" target="_blank"><tab1><button>Register Now</button></tab1></a>
 
   </div>
 );
