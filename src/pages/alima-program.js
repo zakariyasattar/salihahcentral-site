@@ -87,34 +87,34 @@ const Alima = () => (
         </tr>
 
         <tr>
-          <td><tab1></tab1>3-4 hours per week</td>
-          <td>Qur'an</td>
+          <td><tab1></tab1>5-6 hours per week</td>
+          <td>Qur'anic Tajweed</td>
           <td></td>
-          <td>Qur'an</td>
+          <td>Qur'anic Tajweed</td>
           <td></td>
           <td></td>
         </tr>
         
         <tr>
-          <td><tab1></tab1>2-3 hours per week</td>
-          <td></td>
-          <td>Hadith</td>
-          <td></td>
-          <td>Hadith</td>
-          <td></td>
-        </tr>
-
-        <tr>
-          <td><tab1></tab1>2 hours per week</td>
-          <td>Arabic</td>
-          <td></td>
-          <td>Arabic</td>
-          <td></td>
-          <td></td>
-        </tr>
-
-        <tr>
           <td><tab1></tab1>1-2 hours per week</td>
+          <td></td>
+          <td>Hadith</td>
+          <td></td>
+          <td>Hadith</td>
+          <td></td>
+        </tr>
+
+        <tr>
+          <td><tab1></tab1>3 hours per week</td>
+          <td>Arabic Grammar and Syntax</td>
+          <td></td>
+          <td>Arabic Grammar and Syntax</td>
+          <td></td>
+          <td></td>
+        </tr>
+
+        <tr>
+          <td><tab1></tab1>1 hour per week</td>
           <td></td>
           <td></td>
           <td></td>
