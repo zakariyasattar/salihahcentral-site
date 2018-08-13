@@ -1,6 +1,6 @@
 import React from "react";
 
-import Event02 from "../assets/images/onlineilmprogram.jpg";
+import Event02 from "../assets/images/onlineilmprogram.JPEG";
 import Event03 from "../assets/images/sundayschool.jpg";
 <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet"/>
 
