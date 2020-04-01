@@ -1,0 +1,80 @@
+/* font-family: 'Sofia', cursive; */
+
+/*//////////////
+//// NAVBAR ////
+/////////////*/
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  display: inline-block;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+a:hover {
+  color: powderblue;
+  transition: color .2s ease-in-out;
+}
+
+/*//////////////
+//// HOME ////
+/////////////*/
+
+#home {
+  background: gray;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+}
+
+#welcome-header {
+  margin: 0;
+  position: absolute;
+  top: 30%;
+  right: 29vw;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  font-family: 'Sofia', cursive;
+  color: white;
+  font-weight: 400;
+  font-size: 90px;
+}
+
+#welcome-text{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 24vw;
+  line-height: 30px;
+  width: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  color: lightskyblue;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+#line {
+  margin: 0;
+  position: absolute;
+  top: 60%;
+  width: 50%;
+  left: 24%;
+}
