@@ -5,7 +5,7 @@ import Router from 'react-router';
 
 
 import profilePic from "../assets/images/unnamed.png";
-<link href='https://fonts.googleapis.com/css?family=Sofia' rel="stylesheet"/>
+// <link href='https://fonts.googleapis.com/css?family=Sofia' rel="stylesheet"/>
 
 const About = () => (
   <section id="about">
@@ -18,9 +18,7 @@ const About = () => (
         <h5>
         <font color="gray">
 
-        Salihah Central is an Islamic learning community for women, exclusively taught by women. We
-        also offer enrichment classes for children including summer, weekend, and after-school programs.
-        Furthermore, through entertaining special events and gatherings we foster and value
+        Salihah Central is an Islamic learning community for women, exclusively taught by women. Through entertaining special events and gatherings we foster and value
         meaningful friendships within our community. Please take the time to meet our team, get involved, and contact us by clicking the buttons below!
         </font>
         </h5>
@@ -32,6 +30,4 @@ const About = () => (
       </div>
     </div>
   </section>
-);
-
-export default About;
+); export default About;
