@@ -35,10 +35,6 @@ const womensprograms = () => (
     <li><a href="seminar">Ramadan Programs</a></li>
     <li><a href="workshop">The Traveling workshop</a></li>
     <br />
-  <font color="black"><h1>For Children</h1></font>
-    <li><a href="sundayschool">Sunday School</a></li>
-    <li><a href="quranprogram">Our Quran Program</a></li>
-    <li><a href="summerprogram">Our Summer Program</a></li>
 
 </div>
 

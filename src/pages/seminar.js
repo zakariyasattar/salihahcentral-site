@@ -20,20 +20,21 @@ const Seminar = () => (
             margin: 0,
             color: "gray"
           }}>
-            Half-Day Seminar: Wisdom In Bloom
+            Reclaiming Her Inner Strength
 
           </h1>
 
         </div>
+        <center><h4 style={{color: 'black'}}>Sunday, April 12th 2020 <br/> 1:30-4:15pm (Dhuhr to Asr)</h4></center>
         <a href="/#communityprograms"><tab1><button>Go Back To The Homepage</button></tab1></a>
+
     </div>
 <br />
-    <h4><tab1>What is it?</tab1></h4>
-    <p>Fast, convenient, and gives you the energy you need for Ramadan, this half-day seminar is designed to teach the busy mom everything she needs to know in half a day! Eight courses with eight highly qualified teachers of the deen come together to make a seminar where participants can register for courses of their choice. Courses offered: Fiqh, Tafsir, Sahabah, Tajweed, Seerah and much more! Lunch is provided. This session will cover all courses under one theme: Preparation for Ramadan.
-</p>
-  <h4><tab1>How does it work?</tab1></h4>
-  <p> Participants can register for courses of their choice from a range of eight courses. Students attend each course and engage in an in-depth study connected to a relevant theme. Students learn from teachers who bring to the classroom a robust background of knowledge, experience, and a desire to benefit others. Courses offered include: Fiqh, Tafsir, Lives of Sahabah, Tajweed, Seerah, and much more! Lunch is provided. The upcoming Wisdom in Bloom seminar will cover all courses under one theme: Preparation for Ramadan.
-</p>
+  <h1 style={{color: 'white'}}>A Salihah Central: Pre-Ramadan Event</h1>
+  <br/>
+<center style={{paddingLeft: '100px', paddingRight: '100px', textAlign: "left"}}>
+  <tab2></tab2>Salihah Central invites young adult women and adult women to attend the 2020 Pre Ramadan Workshop as we explore this year’s theme:  Rediscovering our inner strength and enacting change that starts with the self. Current events provide more reason to understand how the inner self translates to serenity during difficult times and incurs help from the Only Source of help, Allah.   Change for the better is inevitable when effort towards the self is the focus and Ramadan is the best time for this change.  Two parallel workshops will run simultaneously insha’Allah: young adult and adult women. Session titles include, gaining strength from inspiring women trailblazers of the past, confronting spiritual diseases of the current times, and finding inevitable contentment in our own unique, protected spaces.  Don’t miss this valuable opportunity to connect with women virtually as we gather our energy in order to maximize and benefit from Ramadan 2020.
+</center>
   </div>
 );
 
