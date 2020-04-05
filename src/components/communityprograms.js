@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 
 const womensprograms = () => (
   <section id="communityprograms">
-  <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet"/>
+
   <div
   style={{
     background: 'white',
@@ -12,34 +12,30 @@ const womensprograms = () => (
 >
   <div
     style={{
-      background: 'gray',
+      background: '#81a2b3',
       color: 'white'
         }}
   >
-    <h1 style={{ margin: 10 }}
-        style={{
 
-          textDecoration: 'none',
-        }}
-      >
-
+<link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet"/>
 
 <div>
 <br />
 <font color="black">
     <h1>For Women</h1>
   </font>
-    <li><a href="halaqas">Community Classes</a></li>
-    <li><a href="alima-program">Women's Ilm Program</a></li>
-    <li><a href="ILM101">Ilm 101 Program</a></li>
-    <li><a href="seminar">Ramadan Programs</a></li>
-    <li><a href="workshop">The Traveling workshop</a></li>
+
+  <ul id="classes" style= {{textAlign: 'center', fontSize: "15px"}}>
+    <a href="halaqas"><li class="classes_li">Community Classes</li></a>
+    <li class="classes_li"><a href="alima-program">Women's Ilm Program</a></li>
+    <li class="classes_li"><a href="ILM101">Ilm 101 Program</a></li>
+    <li class="classes_li"><a href="seminar">Ramadan Programs</a></li>
+    <li class="classes_li"><a href="workshop">The Traveling workshop</a></li>
+  </ul>
     <br />
 
 </div>
 
-
-    </h1>
     </div>
     </div>
   </section>

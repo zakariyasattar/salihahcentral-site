@@ -7,10 +7,11 @@ const Banner = () => (
     <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'/>
     <link href="https://fonts.googleapis.com/css?family=Kalam" rel="stylesheet"/>
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet"/>
-    
+
+    <center><div id="inner-header">
       <h1 className="responsive-headline"><font color="white">Salihah Central</font></h1>
       <h3>
-      <font color= "lightskyblue">
+      <font color= "black" >
       Salihah Central is a womens learning community, where women connect, learn and thrive.
       Special events and gatherings gives us an outlet for spiritual bonding and lifelong friendships.
         Find out a little bit more
@@ -22,6 +23,7 @@ const Banner = () => (
       </h3>
       <hr />
       <SocialLinks />
+      </div></center>
     </div>
   </div>
 );

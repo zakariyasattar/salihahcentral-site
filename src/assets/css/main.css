@@ -156,7 +156,7 @@ html {
 }
 
 body {
-   background-color: gray;
+   background-color: white;
    font-family: 'opensans-regular', sans-serif;
    font-weight: normal;
    font-size: 15px;
@@ -903,7 +903,7 @@ th, td {
 /* ------------------------------------------------------------------ */
 
 body {
-  background: gray;
+  background: #81a2b3;
   color: powderblue;
 }
 
@@ -913,15 +913,25 @@ body {
 
 header {
   position: relative;
-  background: gray;
+  background-image: url("../images/IMG-6774.jpg");
   height: 965px;
   min-height: 639px;
   width: 100%;
 
   background-size: cover !important;
   -webkit-background-size: cover !important;
-  text-align: center;
   overflow: visible;
+}
+
+#inner-header {
+  background: #81a2b3;
+  width: 85vw;
+
+  text-align: center;
+  margin-left: 7vw;
+  padding-top: 35vh;
+  padding-bottom: 33vh;
+  text-align: center;
 }
 
 /* vertically center banner section */
@@ -935,7 +945,7 @@ header .banner {
   display: inline-block;
   vertical-align: middle;
   margin: 0 auto;
-  width: 85%;
+
   padding-bottom: 30px;
   text-align: center;
 }
@@ -1033,11 +1043,8 @@ a {
     display: inline;
     width: 100%;
     line-height: 2em;
-    text-align: middle;
+    text-align: center;
     border-radius: 5px;
-}
-a:hover {
-  color: black;
 }
 
 /*staff styles*/
@@ -1510,6 +1517,13 @@ ul#nav li a {
   }
 }
 
+#classes {
+  text-align: center;
+}
+.classes_li {
+  font-size: 15px;
+}
+
 
 
 /* ------------------------------------------------------------------ */
@@ -1546,7 +1560,7 @@ ul#nav li a {
 
 #portfolio div {
   background: inherit;
-  background-color: gray;
+  background-color: #81a2b3;
 }
 .portfolio-item .item-wrap {
   background: #fff;
