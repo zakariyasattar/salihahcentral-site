@@ -1,7 +1,4 @@
 var plugins = [{
-      plugin: require('C:/Users/Zakariya Sattar/Documents/GitHub/salihahcentral-site/node_modules/gatsby-plugin-typography/gatsby-ssr'),
-      options: {"plugins":[],"pathToConfigModule":"src/utils/typography.js"},
-    },{
       plugin: require('C:/Users/Zakariya Sattar/Documents/GitHub/salihahcentral-site/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
       options: {"plugins":[],"fonts":["librebaskerville","open sans"]},
     },{
