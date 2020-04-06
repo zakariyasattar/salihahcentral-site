@@ -913,7 +913,7 @@ body {
 
 header {
   position: relative;
-  /* background-image: url("IMG-6774.jpg"); */
+  background-image: url("../images/bg_image.jpg");
   height: 965px;
   min-height: 639px;
   width: 100%;
