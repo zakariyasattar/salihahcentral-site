@@ -62,6 +62,19 @@ const halaqas = () => (
   <tab1></tab1>Information on this class is available through the sacredlearning.org or by emailing salihah.central@gmail.com.
 </div>
 
+<img style={{display: "inline-block", width: "45vw", height: "50vh", padding: "35px"}}src={convert_circle}></img>
+
+<div style={{float: "right", display: "inline-block", width: "50vw", paddingTop: "35px"}}>
+  <span style={{color: "white", fontSize: "15px", position: "relative"}}>Convert Circle</span>
+  <br/>
+  Convert Circle is a place where participants new to Islam can find a safe and comfortable space to ask questions, learn basics, get support, and act as a connector to others that
+share the same experiences.  It's not easy taking on a new way of life; it's exciting, but with so much unknown, it's hard to know where to begin.  With Convert Circle, we can
+eliminate a lot of the uncertainty and replace it with practical answers that are easy and make sense. Answers that address the unique challenges converts face in integrating
+Islam into their daily life are addressed.  We understand that it takes a community to support those who chose Islam and we want to be that community. Furthermore, detailed
+sessions on various aspects of faith provide knowledge to the growing Muslim find strength and passion in their lives while living Islam.  
+</div>
+
+
 </div>
 )
 
