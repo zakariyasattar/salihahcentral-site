@@ -5,6 +5,7 @@
   "author": "Zakariya Sattar <zakariyasattar03@gmail.com>",
   "dependencies": {
     "gatsby": "^2.0.20",
+    "gatsby-cli": "^2.11.5",
     "gatsby-link": "^2.3.1",
     "gatsby-plugin-google-analytics": "^2.2.1",
     "gatsby-plugin-google-fonts": "^1.0.1",
@@ -17,14 +18,14 @@
     "gatsby-source-filesystem": "^1.5.8",
     "gatsby-transformer-remark": "^1.7.21",
     "gatsby-transformer-sharp": "^1.6.14",
+    "react-dom": "latest",
     "react-form": "^3.5.5",
     "react-icons": "^2.2.7",
+    "react-router": "latest",
     "react-slick": "^0.16.0",
     "slick-carousel": "^1.8.1",
     "typography-theme-bootstrap": "^0.16.7",
-    "webpack": "^4.42.1",
-    "react-dom": "latest",
-    "react-router": "latest"
+    "webpack": "^4.42.1"
   },
   "keywords": [
     "gatsby"
