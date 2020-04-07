@@ -14,6 +14,8 @@ exports.components = {
   "component---src-pages-staff-js": () => import("./../src/pages/staff.js" /* webpackChunkName: "component---src-pages-staff-js" */),
   "component---src-pages-summerprogram-js": () => import("./../src/pages/summerprogram.js" /* webpackChunkName: "component---src-pages-summerprogram-js" */),
   "component---src-pages-sundayschool-js": () => import("./../src/pages/sundayschool.js" /* webpackChunkName: "component---src-pages-sundayschool-js" */),
-  "component---src-pages-workshop-js": () => import("./../src/pages/workshop.js" /* webpackChunkName: "component---src-pages-workshop-js" */)
+  "component---src-pages-workshop-js": () => import("./../src/pages/workshop.js" /* webpackChunkName: "component---src-pages-workshop-js" */),
+  "component---src-pages-seerah-class-js": () => import("./../src/pages/seerah_class.js" /* webpackChunkName: "component---src-pages-seerah-class-js" */),
+  "component---src-pages-convert-circle-js": () => import("./../src/pages/convert_circle.js" /* webpackChunkName: "component---src-pages-convert-circle-js" */)
 }
 
