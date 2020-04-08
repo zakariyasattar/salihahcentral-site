@@ -16,8 +16,8 @@ const IndexPage = () => (
     <Header />
     <About />
     <WLearning />
-    <Calendar />
     <Events/>
+    <Calendar />
     <Footer />
 
   </div>

@@ -22,7 +22,7 @@ const womensprograms = () => (
 <div>
 <br />
 <font color="black">
-    <h1>For Women</h1>
+    <h1>Community Programs</h1>
   </font>
 
   <ul id="classes" style= {{textAlign: 'center', fontSize: "15px"}}>
