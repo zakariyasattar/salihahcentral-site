@@ -25,10 +25,10 @@ const womensprograms = () => (
     <h1>Community Programs</h1>
   </font>
 
-  <ul id="classes" style= {{textAlign: 'center', fontSize: "15px"}}>
-    <a href="halaqas"><li class="classes_li">Community Classes</li></a>
-    <li class="classes_li"><a href="alima-program">Women's Ilm Program</a></li>
-    <li class="classes_li"><a href="seminar">Ramadan Programs</a></li>
+  <ul id="classes" style= {{listStyleType: "default", textAlign: 'center'}}>
+    <a href="halaqas"><li class="programs_li">Community Classes</li></a>
+    <a href="alima-program"><li class="programs_li">Women's Ilm Program</li></a>
+    <a href="seminar"><li class="programs_li">Ramadan Programs</li></a>
   </ul>
     <br />
 

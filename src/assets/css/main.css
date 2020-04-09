@@ -371,22 +371,6 @@ a:hover, a:focus {
 p a, p a:visited { line-height: inherit; }
 
 
-/*  4. List  --------------------------------------------------------- */
-
-ul, ol { margin-bottom: 24px; margin-top: 12px; }
-ul { list-style: none outside; }
-ol { list-style: decimal; }
-ol, ul.square, ul.circle, ul.disc { margin-left: 30px; }
-ul.square { list-style: square outside; }
-ul.circle { list-style: circle outside; }
-ul.disc { list-style: disc outside; }
-ul ul, ul ol,
-ol ol, ol ul { margin: 6px 0 6px 30px; }
-ul ul li, ul ol li,
-ol ol li, ol ul li { margin-bottom: 6px; }
-li { line-height: 18px; margin-bottom: 12px; }
-ul.large li { }
-li p { }
 
 /* ---------------------------------------------------------------------
 /*  Stats Tab Markup
@@ -1293,66 +1277,14 @@ ul#nav li a {
   background: white;
 }
 
-/* ------------------------------------------------------------------ */
-/* d. Resume Section
-/* ------------------------------------------------------------------ */
-/*
-#resume {
-  background: #fff;
-  padding-top: 90px;
-  padding-bottom: 72px;
-  overflow: hidden;
+.programs_li {
+  margin-bottom: 10px;
+  color: white;
+  font-size: 20px;
 }
-
-#resume a,
-#resume a:visited {
-  color: #11abb0;
+.programs_li:hover {
+  color: powderblue;
 }
-#resume a:hover,
-#resume a:focus {
-  color: #313131;
-}
-
-#resume h1 {
-  font: 18px/24px "opensans-bold", sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-#resume h1 span {
-  border-bottom: 3px solid #11abb0;
-  padding-bottom: 6px;
-}
-#resume h3 {
-  font: 25px/30px "opensans-bold", sans-serif;
-}
-
-#resume .header-col {
-  padding-top: 9px;
-}
-#resume .main-col {
-  padding-right: 10%;
-}
-
-.education,
-.work {
-  margin-bottom: 48px;
-  padding-bottom: 24px;
-  border-bottom: 1px solid #e8e8e8;
-}
-#resume .info {
-
-  color: #6e7881;
-  margin-bottom: 18px;
-  margin-top: 9px;
-}
-#resume .info span {
-  margin-right: 5px;
-  margin-left: 5px;
-}
-#resume .date {
-
-  margin-top: 6px;
-} */
 
 /*----------------------------------------------*/
 /*	Skill Bars
