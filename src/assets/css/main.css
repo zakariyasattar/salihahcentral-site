@@ -33,6 +33,9 @@ e. Others
       HTML5 Doctor Reset - html5doctor.com/html-5-reset-stylesheet/
 /* ------------------------------------------------------------------ */
 
+
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 abbr, address, cite, code,
@@ -63,6 +66,10 @@ audio,
 canvas,
 video {
    display: inline-block;
+}
+
+.varela {
+  font-family: 'Varela+Round'
 }
 
 audio:not([controls]) {
@@ -932,6 +939,10 @@ header {
   padding-top: 35vh;
   padding-bottom: 33vh;
   text-align: center;
+}
+
+#flyer_bg {
+  background-image: url("../images/bg_image.png");
 }
 
 /* vertically center banner section */
