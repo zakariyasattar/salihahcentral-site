@@ -32,7 +32,7 @@ const Staff = () => (
     <a href="/#about">
     <font color ="white">
     <tab1>
-    <button>
+    <button class="button">
 
     Go back To The Homepage
 

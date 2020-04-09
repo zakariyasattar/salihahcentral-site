@@ -1021,12 +1021,12 @@ header .scrolldown a:hover {
 }
 /*button*/
 
-#button {
+/* #button {
     width: 6em;
     border: 2px solid green;
     background: #ffe;
     border-radius: 5px;
-}
+} */
 #button1 {
     width: 6em;
     border: 2px solid green;

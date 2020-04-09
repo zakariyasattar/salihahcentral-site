@@ -25,14 +25,14 @@ const Alima = () => (
           </h1>
 
         </div>
-        <a href="/#communityprograms"><tab1><button>Go Back To The Homepage</button></tab1></a>
+        <a href="/#communityprograms"><tab1><button class="button">Go Back To The Homepage</button></tab1></a>
     </div>
   <br />
 
   <h4><tab1>Mission</tab1></h4>
 
   <p>
-  Salihah Central has been offering online classes in the traditional 
+  Salihah Central has been offering online classes in the traditional
   Islamic Sciences for the past 10 years. The goal of this program is
   to keep women connected to Islamic learning and teaching within the
   context of their day-to-day lives. Our aim is to make learning accessible
@@ -40,8 +40,8 @@ const Alima = () => (
   </p>
   <br/>
   <p>
-  The program’s goal is for students in this cohort stay together through an in-depth, 
-  academic approach to Islamic knowledge and insha’Allah graduate together with an Alima degree. 
+  The program’s goal is for students in this cohort stay together through an in-depth,
+  academic approach to Islamic knowledge and insha’Allah graduate together with an Alima degree.
   We offer a full range of subjects including Qur’anic Tafseer, Hadith, Fiqh and Arabic.
   </p>
 <br />
@@ -62,7 +62,7 @@ const Alima = () => (
       <h4><tab2></tab2><font color="lightsteelblue">whereas community classes are designed for general knowledge and benefit, without the academic rigor of exams.</font></h4>
       <h4><tab2></tab2>Question: <font color="white">Do I have to take all the courses within that year?</font></h4>
       <br/>
-      <h4><tab2></tab2>Answer: <font color="lightsteelblue">No, take as many or as few classes that fit in your schedule. 
+      <h4><tab2></tab2>Answer: <font color="lightsteelblue">No, take as many or as few classes that fit in your schedule.
       If you’d like to space that year over more years, that is up to your schedule and availability.</font></h4>
       <br/>
       <h4><tab2></tab2>Question: <font color="white">What fiqh is taught in the Alima Program?</font></h4>
@@ -73,9 +73,9 @@ const Alima = () => (
       <br/>
       <h4><tab2></tab2>Answer: <font color="lightsteelblue">Here is a mock schedule that may be helpful:</font></h4>
       <br/>
-      
 
-      
+
+
       <table>
         <tr>
           <td></td>
@@ -94,7 +94,7 @@ const Alima = () => (
           <td></td>
           <td></td>
         </tr>
-        
+
         <tr>
           <td><tab1></tab1>1-2 hours per week</td>
           <td></td>

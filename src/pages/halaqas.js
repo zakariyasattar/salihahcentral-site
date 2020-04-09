@@ -30,7 +30,7 @@ const halaqas = () => (
       </h1>
 
     </div>
-    <a href="/#communityprograms"><tab1><button>Go Back To The Homepage</button></tab1></a>
+    <a href="/#communityprograms"><tab1><button class="button">Go Back To The Homepage</button></tab1></a>
 </div>
 
 <br/>

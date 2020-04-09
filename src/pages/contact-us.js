@@ -4,7 +4,7 @@ import Ribbon from "../components/Ribbon";
 const ExampleForm = () => (
 <div>
 <Ribbon/>
-<a href="/#communityprograms"><tab1><button>Go Back To The Homepage</button></tab1></a>
+<a href="/#communityprograms"><tab1><button class="button">Go Back To The Homepage</button></tab1></a>
               <form method="post" data-netlify="true">
             <div className="field half first">
               <label htmlFor="name"><font color="powderblue"><tab1></tab1>Name</font></label>

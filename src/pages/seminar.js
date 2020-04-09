@@ -31,7 +31,7 @@ const Seminar = () => (
 
         </div>
         <center><h4 style={{color: 'black'}}>Sunday, April 12th 2020 <br/> 1:30-4:15pm (Dhuhr to Asr)</h4></center>
-        <a href="/#communityprograms"><tab1><button>Go Back To The Homepage</button></tab1></a>
+        <a href="/#communityprograms"><tab1><button class="button">Go Back To The Homepage</button></tab1></a>
 
     </div>
 

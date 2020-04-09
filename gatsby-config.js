@@ -1,10 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Salihah Central",
-    author: "Zakariya Sattar",
-    description: "A place for women to grow spirutually"
   },
-  pathPrefix: "/",
   plugins: [
 
     {
@@ -37,6 +34,6 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-sass`
-  ]
-};
+    `gatsby-plugin-sass`,
+  ],
+}
