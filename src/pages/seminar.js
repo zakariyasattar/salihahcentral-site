@@ -3,7 +3,7 @@ import React from "react";
 import dear_abir from "../assets/images/programs/Dear_Abir.jpg"
 import laylatul_qadr from "../assets/images/programs/Laylatul_Qadr.jpg"
 import quran_clinic from "../assets/images/programs/Quran_clinic.jpg"
-import ramadan_halaqas from "../assets/images/programs/ramadan_halaqas.jpg"
+import ramadan_halaqas from "../assets/images/programs/ashrtalks.jpg"
 
 const Seminar = () => (
   <div>
