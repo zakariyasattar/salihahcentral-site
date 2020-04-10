@@ -1,6 +1,6 @@
 import React from "react";
 
-const Ilm Program = () => (
+const alima = () => (
   <div>
     <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet"/>
     <div
@@ -125,4 +125,4 @@ const Ilm Program = () => (
 </div>
 );
 
-export default Ilm Program
+export default alima
