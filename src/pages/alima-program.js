@@ -1,6 +1,6 @@
 import React from "react";
 
-const Alima = () => (
+const Ilm Program = () => (
   <div>
     <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet"/>
     <div
@@ -20,7 +20,7 @@ const Alima = () => (
             margin: 0,
             color: "gray"
           }}>
-            Alima Program
+            Ilm Program Program
 
           </h1>
 
@@ -41,7 +41,7 @@ const Alima = () => (
   <br/>
   <p>
   The program’s goal is for students in this cohort stay together through an in-depth,
-  academic approach to Islamic knowledge and insha’Allah graduate together with an Alima degree.
+  academic approach to Islamic knowledge and insha’Allah graduate together with an Ilm Program degree.
   We offer a full range of subjects including Qur’anic Tafseer, Hadith, Fiqh and Arabic.
   </p>
 <br />
@@ -52,20 +52,20 @@ const Alima = () => (
       <br/>
       <h4><tab2></tab2>Answer: <font color="lightsteelblue">1-3 hours per course, including study time</font></h4>
       <br/>
-      <h4><tab2></tab2>Question: <font color="white">How long does it take to get an alima degree?</font></h4>
+      <h4><tab2></tab2>Question: <font color="white">How long does it take to get an Ilm Program degree?</font></h4>
       <br/>
-      <h4><tab2></tab2>Answer: <font color="lightsteelblue">The alima degree is completed after 6 years of full-time coursework. Part time tracks are available, as well as the option to audit course for a pass/no pass grade.</font></h4>
+      <h4><tab2></tab2>Answer: <font color="lightsteelblue">The Ilm Program degree is completed after 6 years of full-time coursework. Part time tracks are available, as well as the option to audit course for a pass/no pass grade.</font></h4>
       <br/>
-      <h4><tab2></tab2>Question: <font color="white">How is the alima program different than the community classes?</font></h4>
+      <h4><tab2></tab2>Question: <font color="white">How is the Ilm Program program different than the community classes?</font></h4>
       <br/>
-      <h4><tab2></tab2>Answer: <font color="lightsteelblue">Students in the alima program are expected to take exams and show academic level performance, </font></h4>
+      <h4><tab2></tab2>Answer: <font color="lightsteelblue">Students in the Ilm Program program are expected to take exams and show academic level performance, </font></h4>
       <h4><tab2></tab2><font color="lightsteelblue">whereas community classes are designed for general knowledge and benefit, without the academic rigor of exams.</font></h4>
       <h4><tab2></tab2>Question: <font color="white">Do I have to take all the courses within that year?</font></h4>
       <br/>
       <h4><tab2></tab2>Answer: <font color="lightsteelblue">No, take as many or as few classes that fit in your schedule.
       If you’d like to space that year over more years, that is up to your schedule and availability.</font></h4>
       <br/>
-      <h4><tab2></tab2>Question: <font color="white">What fiqh is taught in the Alima Program?</font></h4>
+      <h4><tab2></tab2>Question: <font color="white">What fiqh is taught in the Ilm Program Program?</font></h4>
       <br/>
       <h4><tab2></tab2>Answer: <font color="lightsteelblue">Hanafi fiqh, as well as general comparison in usul of the Shafi and Maliki madhab.</font></h4>
       <br/>
@@ -125,4 +125,4 @@ const Alima = () => (
 </div>
 );
 
-export default Alima
+export default Ilm Program
