@@ -25,13 +25,16 @@ const Seminar = () => (
             margin: 0,
             color: "gray"
           }}>
-            Reclaiming Her Inner Strength
+            Ramadan Programs
 
           </h1>
 
         </div>
-        <center><h4 style={{color: 'black'}}>Sunday, April 12th 2020 <br/> 1:30-4:15pm (Dhuhr to Asr)</h4></center>
         <a href="/#communityprograms"><tab1><button class="button">Go Back To The Homepage</button></tab1></a>
+        <tab1></tab1>
+        <a href="https://bit.ly/Salihahcentral" target="_blank"><button>Register Now!</button></a>
+
+        <center><p style={{textDecoration:"underline", color: "black"}}>Click on flyer for more information and registration</p></center>
 
     </div>
 

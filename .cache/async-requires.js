@@ -14,6 +14,10 @@ exports.components = {
   "component---src-pages-seminar-js": () => import("./../src/pages/seminar.js" /* webpackChunkName: "component---src-pages-seminar-js" */),
   "component---src-pages-staff-js": () => import("./../src/pages/staff.js" /* webpackChunkName: "component---src-pages-staff-js" */),
   "component---src-pages-summerprogram-js": () => import("./../src/pages/summerprogram.js" /* webpackChunkName: "component---src-pages-summerprogram-js" */),
-  "component---src-pages-sundayschool-js": () => import("./../src/pages/sundayschool.js" /* webpackChunkName: "component---src-pages-sundayschool-js" */)
+  "component---src-pages-sundayschool-js": () => import("./../src/pages/sundayschool.js" /* webpackChunkName: "component---src-pages-sundayschool-js" */),
+  "component---src-pages-dear-abir-js": () => import("./../src/pages/dear_abir.js" /* webpackChunkName: "component---src-pages-dear-abir-js" */),
+  "component---src-pages-laylatul-qadr-js": () => import("./../src/pages/laylatul_qadr.js" /* webpackChunkName: "component---src-pages-laylatul-qadr-js" */),
+  "component---src-pages-quran-clinic-js": () => import("./../src/pages/quran_clinic.js" /* webpackChunkName: "component---src-pages-quran-clinic-js" */),
+  "component---src-pages-ramadan-halaqas-js": () => import("./../src/pages/ramadan_halaqas.js" /* webpackChunkName: "component---src-pages-ramadan-halaqas-js" */)
 }
 

@@ -17,6 +17,10 @@ exports.components = {
   "component---src-pages-seminar-js": hot(preferDefault(require("/Users/zakariyasattar/salihahcentral-site/src/pages/seminar.js"))),
   "component---src-pages-staff-js": hot(preferDefault(require("/Users/zakariyasattar/salihahcentral-site/src/pages/staff.js"))),
   "component---src-pages-summerprogram-js": hot(preferDefault(require("/Users/zakariyasattar/salihahcentral-site/src/pages/summerprogram.js"))),
-  "component---src-pages-sundayschool-js": hot(preferDefault(require("/Users/zakariyasattar/salihahcentral-site/src/pages/sundayschool.js")))
+  "component---src-pages-sundayschool-js": hot(preferDefault(require("/Users/zakariyasattar/salihahcentral-site/src/pages/sundayschool.js"))),
+  "component---src-pages-dear-abir-js": hot(preferDefault(require("/Users/zakariyasattar/salihahcentral-site/src/pages/dear_abir.js"))),
+  "component---src-pages-laylatul-qadr-js": hot(preferDefault(require("/Users/zakariyasattar/salihahcentral-site/src/pages/laylatul_qadr.js"))),
+  "component---src-pages-quran-clinic-js": hot(preferDefault(require("/Users/zakariyasattar/salihahcentral-site/src/pages/quran_clinic.js"))),
+  "component---src-pages-ramadan-halaqas-js": hot(preferDefault(require("/Users/zakariyasattar/salihahcentral-site/src/pages/ramadan_halaqas.js")))
 }
 

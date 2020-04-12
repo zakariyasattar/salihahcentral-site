@@ -31,6 +31,10 @@ const halaqas = () => (
 
     </div>
     <a href="/#communityprograms"><tab1><button class="button">Go Back To The Homepage</button></tab1></a>
+    <tab1></tab1>
+    <a href="https://bit.ly/Salihahcentral" target="_blank"><button>Register Now!</button></a>
+
+    <center><p style={{textDecoration:"underline", color: "black"}}>Click on flyer for more information and registration</p></center>
 </div>
 
 <br/>
@@ -56,6 +60,8 @@ const halaqas = () => (
   <a href="../seerah_class"><img style={{display: "inline-block", width: "45vw", height: "50vh", padding: "1vh"}}src={seerah_class}></img></a>
   <a href="../convert_circle"><img style={{display: "inline-block", width: "45vw", height: "50vh", padding: "1vh"}}src={convert_circle}></img></a>
 </div>
+
+<br/>
 
 </center>
 
