@@ -6,8 +6,7 @@ const dear_abir = () => (
   <a href="../seminar"><tab1><button>Go Back To Ramadan Programs</button></tab1></a>
 
   <h1>Quran Clinic</h1>
-  Highlighting three surahs of the Quran, these sessions are meant to immerse the audience in the jewels, treasures, and depths found therein.  Better than any entertainment piece ever created, the Quran moves you, surprises you, brings out tears, humbles you, makes you giggle, and gives that jolt of energy that everyone needs to thrive.  Through these lessons, one understands the expectations placed on them and finds nearness to Allah at the end.  Under the auspices of Ramadan, this class will stretch your mind, soften your heart,  and bring you to sujood in praise of Allah insha’Allah.
-
+  Work with Hafidha Fatima Sattar on pronunciation and recitation of the Holy Quran. With this Quran clinic, one can work towards their own personal Quranic goals. Utilize this drop-in clinic format in order to set goals and reach new heights in building your relationship with the Quran. Whether it’s setting out to memorize a portion of the Quran, learn Tajweed, or build up your reading fluency, this goal-oriented clinic will help you stay motivated and on-track! 
   <br/>
   <a href="https://bit.ly/Salihahcentral"><button>Register Now!</button></a>
   </div>
