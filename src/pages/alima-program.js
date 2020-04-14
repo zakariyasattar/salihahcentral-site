@@ -1,5 +1,7 @@
 import React from "react";
 
+import flyer from "../assets/images/programs/ilm_program.jpg"
+
 const alima = () => (
   <div>
     <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet"/>
@@ -20,7 +22,7 @@ const alima = () => (
             margin: 0,
             color: "gray"
           }}>
-            Ilm Program Program
+            Ilm Program
 
           </h1>
 
@@ -28,6 +30,8 @@ const alima = () => (
         <a href="/#communityprograms"><tab1><button class="button">Go Back To The Homepage</button></tab1></a>
     </div>
   <br />
+
+  <center><img src={flyer} style={{width: "35vw", height: "100vh"}}></img></center>
 
   <h4><tab1>Mission</tab1></h4>
 
