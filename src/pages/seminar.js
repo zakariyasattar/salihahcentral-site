@@ -41,12 +41,12 @@ const Seminar = () => (
 
     <center>
 
-    <div id="flyer_bg" style={{width: "95vw", height: "195vh", marginBottom: "50px"}}>
+    <div id="flyer_bg" style={{width: "95vw", height: "207vh", marginBottom: "50px"}}>
       <a href="../dear_abir"><img style={{display: "inline-block", width: "45vw", height: "65vh", padding: "1vh"}} src={dear_abir}></img></a>
-      <a href="../laylatul_qadr"><img style={{display: "inline-block", width: "45vw", height: "65vh", padding: "1vh"}} src={laylatul_qadr}></img></a>
       <a href="../quran_clinic"><img style={{display: "inline-block", width: "45vw", height: "65vh", padding: "1vh"}} src={quran_clinic}></img></a>
       <a href="../ramadan_halaqas"><img style={{display: "inline-block", width: "45vw", height: "65vh", padding: "1vh"}} src={ramadan_halaqas}></img></a>
       <a href="../tafseer"><img style={{display: "inline-block", width: "45vw", height: "65vh", padding: "1vh"}} src={tafseer}></img></a>
+      <a href="../laylatul_qadr"><img style={{display: "inline-block", width: "30vw", height: "75vh", padding: "1vh"}} src={laylatul_qadr}></img></a>
 
     </div>
 

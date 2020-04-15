@@ -1,6 +1,6 @@
 import React from "react";
 
-import Event01 from "../assets/images/workshop.png";
+import Event01 from "../assets/images/goal_setting.jpg";
 // <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet"/>
 
 const Events = () => (
@@ -9,7 +9,7 @@ const Events = () => (
 
   <center><span style={{color: 'black'}}>Click on event flyer to register</span></center>
   <div class="header-bar waypoint" ></div>
-  <a href="https://bit.ly/preramadanevent" target="_blank"><img className="event" src={Event01} alt="" /></a>
+  <a href="https://bit.ly/Salihahcentral" target="_blank"><img className="event" src={Event01} alt="" /></a>
 
 
 </section>
