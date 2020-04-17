@@ -1,10 +1,6 @@
 import React from "react";
 
-import dear_abir from "../assets/images/programs/Dear_Abir.jpg"
-import laylatul_qadr from "../assets/images/programs/Laylatul_Qadr.jpg"
-import quran_clinic from "../assets/images/programs/Quran_clinic.jpg"
-import ramadan_halaqas from "../assets/images/programs/ashrtalks.jpg"
-import tafseer from "../assets/images/programs/tafseer.png"
+import final_flyer from "../assets/images/programs/ramadan.jpg"
 
 const Seminar = () => (
   <div>
@@ -26,7 +22,7 @@ const Seminar = () => (
             margin: 0,
             color: "gray"
           }}>
-            Ramadan Programs
+            Ramadan Initiative
 
           </h1>
 
@@ -35,19 +31,14 @@ const Seminar = () => (
         <tab1></tab1>
         <a href="https://bit.ly/Salihahcentral" target="_blank"><button>Register Now!</button></a>
 
-        <center><p style={{textDecoration:"underline", color: "black"}}>Click on flyer for more information and registration</p></center>
+        <center><p style={{textDecoration:"underline", color: "black"}}>Click on flyer for registration</p></center>
 
     </div>
 
     <center>
 
-    <div id="flyer_bg" style={{width: "95vw", height: "207vh", marginBottom: "50px"}}>
-      <a href="../dear_abir"><img style={{display: "inline-block", width: "45vw", height: "65vh", padding: "1vh"}} src={dear_abir}></img></a>
-      <a href="../quran_clinic"><img style={{display: "inline-block", width: "45vw", height: "65vh", padding: "1vh"}} src={quran_clinic}></img></a>
-      <a href="../ramadan_halaqas"><img style={{display: "inline-block", width: "45vw", height: "65vh", padding: "1vh"}} src={ramadan_halaqas}></img></a>
-      <a href="../tafseer"><img style={{display: "inline-block", width: "45vw", height: "65vh", padding: "1vh"}} src={tafseer}></img></a>
-      <a href="../laylatul_qadr"><img style={{display: "inline-block", width: "30vw", height: "75vh", padding: "1vh"}} src={laylatul_qadr}></img></a>
-
+    <div id="flyer_bg" style={{width: "95vw", height: "350vh", marginBottom: "50px"}}>
+      <a href="https://bit.ly/Salihahcentral" target="_blank"><img style={{display: "inline-block", width: "65vw", padding: "1vh"}} src={final_flyer}></img></a>
     </div>
 
     </center>

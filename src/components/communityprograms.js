@@ -28,7 +28,7 @@ const womensprograms = () => (
   <ul id="classes" style= {{listStyleType: "default", textAlign: 'center'}}>
     <a href="halaqas"><li class="programs_li">Community Classes</li></a>
     <a href="alima-program"><li class="programs_li">Women's Ilm Program</li></a>
-    <a href="seminar"><li class="programs_li">Ramadan Programs</li></a>
+    <a href="seminar"><li class="programs_li">Ramadan Initiative</li></a>
   </ul>
     <br />
 
